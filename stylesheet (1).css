@@ -1,0 +1,38 @@
+body h3, #Rem  {
+  color:#9370DB
+}
+
+body {
+  background-color:#FFFACD
+}
+
+.userInfo {
+    padding:25px;
+    font-family:courier; 
+    font-size:150%;
+}
+
+h1, h2, h3 {
+    border:2px solid black; 
+    padding:10px;
+} 
+
+table {
+    font-size:150%;
+}
+
+#islom { 
+  color:#000080;
+}
+
+a:link {
+  color:lightgreen;
+}
+
+a:visited {
+  color:red;
+}
+
+a:hover {
+  color:green;
+}
